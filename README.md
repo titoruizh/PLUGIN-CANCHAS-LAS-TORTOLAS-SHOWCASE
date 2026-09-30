@@ -1,7 +1,7 @@
 # 🏟️ Canchas Las Tortolas - Plugin QGIS 
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f9a440b5-244f-44a4-8d78-35e133f56dea" 
+  <img src="assets/vista-plugin.gif" 
        alt="Vista del Plugin" 
        width="40%"
        style="border-radius: 12px; box-shadow: 0 0 12px rgba(0,0,0,0.3);">
@@ -181,7 +181,7 @@ Procesamiento_YYYY-MM-DD/
 
 ### **📋 Tabla Base de Datos con Metadata**
 
-<img width="607" height="424" alt="SS tabla" src="https://github.com/user-attachments/assets/5c1d0f54-657d-49b9-b98c-b58b8352277c" />
+<img width="607" height="424" alt="SS tabla" src="assets/tabla-metadata.png" />
 
 
 | Campo | Tipo | Descripción |
@@ -214,15 +214,15 @@ Espesor Máx:    +3.78 m
 <!-- Imagen grande arriba -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2237aba3-3d8b-4781-8a73-3799b37612f8" alt="P250925_MP_S5_TALUDSUPERIOR" width="100%">
+  <img src="assets/plano-movimiento-tierra.jpg" alt="P250925_MP_S5_TALUDSUPERIOR" width="100%">
 </p>
 
 <!-- Tres imágenes pequeñas abajo, alineadas en fila -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/27dc6742-722d-4af4-8e0a-b2340424c3f2" alt="G1250901_MP_S5_PLAT1" width="32%">
-  <img src="https://github.com/user-attachments/assets/77e61583-cadf-4627-b3cf-6a97da7e2f18" alt="G2250901_MP_S7_PLAT1" width="32%">
-  <img src="https://github.com/user-attachments/assets/c30e3d3d-b0dd-4c71-8ba9-935b6d760ba6" alt="PH250904_MP_S6_talud" width="32%">
+  <img src="assets/grafico-g1-barras.png" alt="G1250901_MP_S5_PLAT1" width="32%">
+  <img src="assets/grafico-g2-series.png" alt="G2250901_MP_S7_PLAT1" width="32%">
+  <img src="assets/heatmap-historico.jpg" alt="PH250904_MP_S6_talud" width="32%">
 </p>
 
 
@@ -259,7 +259,7 @@ Espesor Máx:    +3.78 m
 ### **🗂️ Reporte Final**
 
 
-<img width="631" height="685" alt="SS reporte" src="https://github.com/user-attachments/assets/a43371bf-931d-4bc3-ae75-ce7834c85ae7" />
+<img width="631" height="685" alt="SS reporte" src="assets/reporte-final.png" />
 
 
 ---
@@ -280,8 +280,5 @@ Espesor Máx:    +3.78 m
 
 **🏟️ Canchas Las Tortolas Plugin QGIS**  
 *Desarrollado con ❤️ por [Linkapsis](https://www.linkapsis.com)*
-
-[![GitHub Stars](https://img.shields.io/github/stars/titoruizh/PLUGIN_Canchas_LT?style=social)](https://github.com/titoruizh/PLUGIN_Canchas_LT/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/titoruizh/PLUGIN_Canchas_LT?style=social)](https://github.com/titoruizh/PLUGIN_Canchas_LT/network/members)
 
 </div>
